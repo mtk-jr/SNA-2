@@ -1,0 +1,13 @@
+{
+  "include": ["src"],
+  "extraPaths": [
+    "src",
+    "src/decision_engine",
+    "src/graph_engine",
+    "src/data_pipeline",
+    "src/ai_models",
+    "src/integration"
+  ],
+  "pythonVersion": "3.10",
+  "typeCheckingMode": "basic"
+}
